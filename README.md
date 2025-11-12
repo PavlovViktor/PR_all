@@ -1,2 +1,3 @@
-# PR5_Pavlov
+# Praktika_all
+
 Практика 5
